@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MissClickRND/umirhack-ll-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MissClickRND/umirhack-ll-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/MissClickRND/umirhack-ll-mobile.git
