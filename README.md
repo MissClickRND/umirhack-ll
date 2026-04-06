@@ -176,6 +176,7 @@ Frontend будет доступен на `http://localhost:5173`.
 
 <a id="site"></a>
 
-## 6. Ссылка на сайт
+## 6. Ссылка на сайт и приложение
 
 Продакшн-версия проекта: **https://miss-click.ru**
+Мобильное приложение: **https://www.rustore.ru/catalog/app/bob.colbaskin.umir_hack_2**
