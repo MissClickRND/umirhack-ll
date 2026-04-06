@@ -150,7 +150,7 @@ Frontend будет доступен на `http://localhost:5173`.
 Ключевые модули:
 
 - `auth` - регистрация, вход, refresh/logout, cookie-based JWT;
-- `users` - пользователи, роли, верификация заявок от вузов;
+- `users` - пользователи, роли, верификация заявок от вузов; 
 - `diplomas` - создание, поиск, отзыв, QR-токены дипломов;
 - `public-api-servise` - публичные endpoints для работодателей:
 - `crypto` - подпись и проверка криптографических данных;
@@ -164,11 +164,15 @@ Frontend будет доступен на `http://localhost:5173`.
 
 | Участник          | Роль в проекте        |
 | ----------------- | --------------------- |
-| Артем Кирюшин     | Team Lead, Fullstack, |
-| Георгий Щербинин  | Frontend              |
-| Алиса Завеса      | Backend Developer     |
-| Гайдин Даниил     | Backend Developer     |
-| Светличный Никита | Mobile Developer      |
+| [Артем Кирюшин](https://github.com/Lyaguh21)     | Team Lead, Fullstack, |
+| [Георгий Щербинин](https://github.com/Georgiy5)  | Frontend              |
+| [Алиса Завеса](https://github.com/lisazavesa)      | Backend Developer     |
+| [Гайдин Даниил](https://github.com/Treew666)     | Backend Developer     |
+| [Светличный Никита](https://github.com/bybuss) | Mobile Developer      |
+
+<p align="center">
+  <img src="MissClickTeam.png"/>
+</p>
 
 <a id="site"></a>
 
